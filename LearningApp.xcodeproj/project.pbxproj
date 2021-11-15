@@ -15,6 +15,7 @@
 		BD830FF02742F282005A9F48 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = BD830FEE2742F282005A9F48 /* data.json */; };
 		BD830FF12742F282005A9F48 /* style.html in Resources */ = {isa = PBXBuildFile; fileRef = BD830FEF2742F282005A9F48 /* style.html */; };
 		BD830FF32742F474005A9F48 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD830FF22742F474005A9F48 /* Models.swift */; };
+		BD830FF52742FED1005A9F48 /* HomeViewRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD830FF42742FED1005A9F48 /* HomeViewRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		BD830FEE2742F282005A9F48 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 		BD830FEF2742F282005A9F48 /* style.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = style.html; sourceTree = "<group>"; };
 		BD830FF22742F474005A9F48 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		BD830FF42742FED1005A9F48 /* HomeViewRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 			isa = PBXGroup;
 			children = (
 				BD830FDB2742EF23005A9F48 /* HomeView.swift */,
+				BD830FF42742FED1005A9F48 /* HomeViewRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD830FDC2742EF23005A9F48 /* HomeView.swift in Sources */,
+				BD830FF52742FED1005A9F48 /* HomeViewRow.swift in Sources */,
 				BD830FDA2742EF23005A9F48 /* LearningApp.swift in Sources */,
 				BD830FED2742EFCE005A9F48 /* ContentModel.swift in Sources */,
 				BD830FF32742F474005A9F48 /* Models.swift in Sources */,
